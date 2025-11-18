@@ -1,3 +1,3 @@
 echo 'Hello from run.sh'
 echo 'This is being run from a Harness pipeline'
-echo 'Finally, we have done it'
+echo 'Finally Its DONE'
